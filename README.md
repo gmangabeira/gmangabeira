@@ -1,55 +1,72 @@
-# Hi, I'm Gabriel Mangabeira 👋
+<a href="https://mangabeira.net"><img src="assets/banner.png" alt="Gabriel Mangabeira: two-time Olympian, growth marketing for AI and Web3" width="100%"></a>
 
-**Two-time Olympian turned growth marketing strategist.** I blend AI, Web3 and performance marketing to deliver measurable growth.
+<p align="center">
+  <a href="https://mangabeira.net"><img src="https://img.shields.io/badge/mangabeira.net-0A2540?style=for-the-badge&logo=googlechrome&logoColor=FFB800" alt="Website"></a>
+  <a href="https://linkedin.com/in/mangabeira"><img src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=1FB6FF" alt="LinkedIn"></a>
+  <a href="https://x.com/manga82"><img src="https://img.shields.io/badge/@manga82-0A2540?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://medium.com/@gmangabeira"><img src="https://img.shields.io/badge/Medium-0A2540?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+</p>
 
-`2× Olympian` · `1M+ organic readers` · `$6M+ raised` · `Millions in ad spend managed`
+I grew up in the water, chasing hundredths of a second. That pursuit took me to two Olympic Games, where I learned that discipline, resilience and focus are everything. I carried the same principles into digital marketing: instead of chasing medals, I help AI and Web3 companies chase measurable growth.
 
-I grew up in the water, chasing hundredths of a second. That pursuit took me to the Olympic Games in Athens 2004 and Beijing 2008, where I learned that discipline, resilience and focus are everything. I carried the same principles into digital marketing: instead of chasing medals, I help businesses chase measurable growth.
+<img src="assets/stats.png" alt="2x Olympian, 1M+ global readers, $6M+ raised, $1M+ media managed" width="100%">
 
-🌐 [mangabeira.net](https://mangabeira.net) · 💼 [LinkedIn](https://linkedin.com/in/mangabeira) · 𝕏 [@manga82](https://x.com/manga82) · ✍️ [Medium](https://medium.com/@gmangabeira)
+## 🏊 The path
 
-## What I work on
+<img src="assets/timeline.png" alt="Career timeline from Athens 2004 to OPAScope 2025" width="100%">
 
-- **AI-powered growth:** campaigns optimized in real time, high-converting content and personalization at scale.
-- **Web3 growth and community:** go-to-market for DeFi protocols, community funnels, onchain attribution and Web3 SEO.
-- **Data-driven performance:** attribution, automation and systems that turn complex data into clear growth decisions.
-- **SEO and AEO:** organic growth for search engines and AI assistants.
+## 📈 Growth stories
 
-## Open source and tools
+<img src="assets/stories.png" alt="Binance 7M+ impressions, Neil Patel Brasil 1M+ monthly readers, Russell Marketing $6.3M+ raised, Coca-Cola and Powerade 10M+ impressions" width="100%">
 
-| Project | What it does |
+## 🛠️ Tools I built
+
+<p>
+  <a href="https://mangabeira.net/tools/tokenomics-simulator"><img src="assets/tool-tokenomics.png" alt="DeFi Tokenomics Simulator" width="49%"></a>
+  <a href="https://github.com/gmangabeira/lovable-credit-calculator"><img src="assets/tool-calculator.png" alt="Lovable Credit Calculator case study" width="49%"></a>
+</p>
+
+## 🧩 Open source
+
+<p>
+  <a href="https://github.com/gmangabeira/onchain-attribution-kit"><img src="assets/card-onchain-attribution-kit.png" alt="onchain-attribution-kit" width="49%"></a>
+  <a href="https://github.com/gmangabeira/ths-cmc-mcp"><img src="assets/card-ths-cmc-mcp.png" alt="ths-cmc-mcp" width="49%"></a>
+  <a href="https://github.com/gmangabeira/web3-protocol-gtm-skills"><img src="assets/card-web3-protocol-gtm-skills.png" alt="web3-protocol-gtm-skills" width="49%"></a>
+  <a href="https://github.com/gmangabeira/wp-render-optimization"><img src="assets/card-wp-render-optimization.png" alt="wp-render-optimization" width="49%"></a>
+</p>
+
+## 📊 Results in numbers
+
+<img src="assets/charts.png" alt="WordPress mobile score from 52 to 97; median Lovable credits by project type" width="100%">
+
+## 🧠 What I work on
+
+| | |
 |---|---|
-| [onchain-attribution-kit](https://github.com/gmangabeira/onchain-attribution-kit) | Open-source onchain attribution for Web3 growth teams: UTM-to-wallet capture, Dune SQL templates, Telegram, Discord and Slack alerts. |
-| [ths-cmc-mcp](https://github.com/gmangabeira/ths-cmc-mcp) | MCP server that turns live CoinMarketCap data into a sourced token health brief. Every risk flag cites the CMC field and value. |
-| [web3-protocol-gtm-skills](https://github.com/gmangabeira/web3-protocol-gtm-skills) | Three Claude skills that run the go-to-market diagnostic I use in client engagements, adapted for self-serve Web3 protocols. |
-| [wp-render-optimization](https://github.com/gmangabeira/wp-render-optimization) | Claude Code skill for WordPress render optimization: the model and the gotchas that took a real site from mobile 52 to 97 in one day. |
-| [lovable-credit-calculator](https://github.com/gmangabeira/lovable-credit-calculator) | Case study: a free Lovable credit calculator that ranked on Google with no domain, got copied, and what I did about it. |
-| [Tokenomics Simulator](https://mangabeira.net/tools/tokenomics-simulator) | Five-year DeFi tokenomics simulator (on my site). |
+| **AI-powered growth** | Campaigns optimized in real time, high-converting content, personalization at scale |
+| **Web3 growth** | Go-to-market for DeFi protocols, community funnels, onchain attribution, Web3 SEO |
+| **SEO and AEO** | Organic growth for search engines and AI assistants |
+| **Data-driven performance** | Attribution, automation and systems that turn data into growth decisions |
 
-## Growth stories
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-0D3558?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/TypeScript-0D3558?style=flat-square&logo=typescript&logoColor=1FB6FF" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Lovable-0D3558?style=flat-square&logo=heart&logoColor=FFB800" alt="Lovable">
+  <img src="https://img.shields.io/badge/WordPress-0D3558?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Dune-0D3558?style=flat-square&logo=databricks&logoColor=FFB800" alt="Dune">
+  <img src="https://img.shields.io/badge/Google_Analytics-0D3558?style=flat-square&logo=googleanalytics&logoColor=FFB800" alt="Google Analytics">
+  <img src="https://img.shields.io/badge/HubSpot-0D3558?style=flat-square&logo=hubspot&logoColor=white" alt="HubSpot">
+  <img src="https://img.shields.io/badge/Looker_Studio-0D3558?style=flat-square&logo=looker&logoColor=1FB6FF" alt="Looker Studio">
+</p>
 
-- **Binance, LATAM growth:** led paid media in a crowded, regulated market. $1M+ media spend managed, CAC down 20%, 7M+ impressions.
-- **Neil Patel Brasil, SEO at scale:** built a localized SEO and content operation that reached 1M+ monthly readers.
-- **Russell Marketing, crowdfunding:** launched 40+ products on Kickstarter and Indiegogo, $6.3M+ raised.
-- **Coca-Cola and Powerade, Olympic campaigns:** digital-first sponsorship activations, 10M+ impressions during the Games.
-
-## Path
-
-| Year | |
-|---|---|
-| 2004, 2008 | Olympian for Brazil, Athens and Beijing |
-| 2014 to 2016 | Coca-Cola engagement and activation, Powerade Olympic Ambassador Program |
-| 2017 | Growth Manager, Russell Marketing |
-| 2020 | SEO Consultant, Neil Patel Digital |
-| 2022 | Growth Marketing Manager, Binance LATAM |
-| 2023 | Web3 growth consultant for DeFi projects |
-| 2025 | SEO and AEO Manager, OPAScope |
-
-## Writing
+## ✍️ Recent writing
 
 - [The definitive guide to Web3 SEO](https://mangabeira.net/publications/definitive-guide-web3-seo)
 - [DeFi case study: Avici](https://mangabeira.net/publications/case-study-defi-avici)
 - [Uniswap growth audit from public evidence](https://mangabeira.net/publications/uniswap-growth-audit-evidence)
-- [All publications](https://mangabeira.net/publications)
+- [All publications →](https://mangabeira.net/publications)
 
-Working on a DeFi or AI product and want growth that shows up in the numbers? Start with the [Web3 Growth Audit](https://mangabeira.net/services/web3-growth-audit) or say hi on [LinkedIn](https://linkedin.com/in/mangabeira).
+---
+
+<p align="center"><b>Building a DeFi or AI product and want growth that shows up in the numbers?</b><br>
+<a href="https://mangabeira.net/services/web3-growth-audit">Start with the Web3 Growth Audit</a> · <a href="https://linkedin.com/in/mangabeira">Say hi on LinkedIn</a></p>
