@@ -41,7 +41,7 @@ I grew up in the water, chasing hundredths of a second. That pursuit took me to 
 
 ## 🧠 What I work on
 
-| | |
+| Area | What I do |
 |---|---|
 | **AI-powered growth** | Campaigns optimized in real time, high-converting content, personalization at scale |
 | **Web3 growth** | Go-to-market for DeFi protocols, community funnels, onchain attribution, Web3 SEO |
